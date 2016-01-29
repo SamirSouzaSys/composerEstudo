@@ -1,0 +1,14 @@
+{
+  "name": "Composer - Estudo",
+  "description" : "Vou usar esse projeto p solidificar o aprendizado quanto ao uso do composer - baseado no artigo http://tableless.com.br/composer-para-iniciantes/",
+  "authors" : [
+    {
+      "name" : "Samir Souza",
+      "email" : "samir.guitar@gmail.com"
+    }
+  ],
+  "require":{
+    "php":">=5.2.8",
+    "kevinlebrum/slug.php" : "1.*"
+  }
+}
